@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/434/trunk/jacktrip/externals/includes/jack
+END
+ringbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/434/trunk/jacktrip/externals/includes/jack/ringbuffer.h
+END
+intclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/434/trunk/jacktrip/externals/includes/jack/intclient.h
+END
+statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/434/trunk/jacktrip/externals/includes/jack/statistics.h
+END
+transport.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/434/trunk/jacktrip/externals/includes/jack/transport.h
+END
+systemdeps.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/434/trunk/jacktrip/externals/includes/jack/systemdeps.h
+END
+control.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/434/trunk/jacktrip/externals/includes/jack/control.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/434/trunk/jacktrip/externals/includes/jack/types.h
+END
+midiport.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/434/trunk/jacktrip/externals/includes/jack/midiport.h
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/434/trunk/jacktrip/externals/includes/jack/thread.h
+END
+jslist.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/434/trunk/jacktrip/externals/includes/jack/jslist.h
+END
+jack.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/434/trunk/jacktrip/externals/includes/jack/jack.h
+END

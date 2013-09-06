@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/455/trunk/jacktrip/externals/includes/QTWindows
+END
+libjack.lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/454/trunk/jacktrip/externals/includes/QTWindows/libjack.lib
+END
+mingwm10.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/455/trunk/jacktrip/externals/includes/QTWindows/mingwm10.dll
+END
+libjack.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/435/trunk/jacktrip/externals/includes/QTWindows/libjack.dll
+END
+QtCore4.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/455/trunk/jacktrip/externals/includes/QTWindows/QtCore4.dll
+END
+QtNetwork4.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/455/trunk/jacktrip/externals/includes/QTWindows/QtNetwork4.dll
+END

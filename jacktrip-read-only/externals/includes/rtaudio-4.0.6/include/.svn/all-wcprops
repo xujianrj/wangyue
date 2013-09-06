@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include
+END
+asiodrvr.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/asiodrvr.h
+END
+ginclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/ginclude.h
+END
+asiosys.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/asiosys.h
+END
+iasiothiscallresolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/iasiothiscallresolver.h
+END
+asiodrivers.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/asiodrivers.h
+END
+asio.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/asio.h
+END
+dsound.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/dsound.h
+END
+iasiodrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/iasiodrv.h
+END
+soundcard.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/soundcard.h
+END
+asiolist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/asiolist.cpp
+END
+asiodrivers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/asiodrivers.cpp
+END
+iasiothiscallresolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/iasiothiscallresolver.cpp
+END
+asio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/asio.cpp
+END
+asiolist.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/423/trunk/jacktrip/externals/includes/rtaudio-4.0.6/include/asiolist.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/280/trunk/jacktrip/faust-src
+END
+Makefile.vstcompile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/trunk/jacktrip/faust-src/Makefile.vstcompile
+END
+Makefile.compile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/268/trunk/jacktrip/faust-src/Makefile.compile
+END
+Makefile.mspcompile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/trunk/jacktrip/faust-src/Makefile.mspcompile
+END
+Makefile.qcompile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/268/trunk/jacktrip/faust-src/Makefile.qcompile
+END
+net-ks.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/280/trunk/jacktrip/faust-src/net-ks.dsp
+END
+minimal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/268/trunk/jacktrip/faust-src/minimal.cpp
+END
+Makefile.pdcompile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/trunk/jacktrip/faust-src/Makefile.pdcompile
+END
+Makefile.qtcompile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/trunk/jacktrip/faust-src/Makefile.qtcompile
+END
+Makefile.ladspacompile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/268/trunk/jacktrip/faust-src/Makefile.ladspacompile
+END
+Makefile.sccompile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/trunk/jacktrip/faust-src/Makefile.sccompile
+END
+Makefile.svg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/268/trunk/jacktrip/faust-src/Makefile.svg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/268/trunk/jacktrip/faust-src/Makefile
+END
