@@ -105,7 +105,7 @@
 	
 }
 
-- (IBAction) stopInsrument:(id)sender{
+- (IBAction)stopInstrument:(id)sender{
 	[self stopBackgroundWorkingTimer];
 	[self.jackTaskContainer stopAllTasks];
 	[self startInvitationCheckTimer:nil];
@@ -237,7 +237,7 @@
 													userInfo:nil
 													 repeats:YES];
     self.backgroundWorkingTimer = timer;
-	currentWorkingTimer=GetClientChanelListtimer;
+	currentWorkingTimer= GetClientChanelListTimer;
 }
 
 -(void) getClientChanelList:(NSTimer*)timer
